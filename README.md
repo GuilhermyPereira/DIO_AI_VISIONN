@@ -34,6 +34,4 @@ Legenda de fotos:
 <img src="source_rm/Captura de tela 2024-02-25 205321.png">
 
 
-Reconhecimento de texto:
-<img src="source_rm/Captura de tela 2024-02-25 204740.png">
-Legenda de imagens:
+

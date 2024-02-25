@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "ba3648bf-dd27-40a3-b962-f86051cb7576",
+  "content-length": "150",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a waterfall in a valley",
+    "confidence": 0.5920039415359497
+  },
+  "metadata": {
+    "width": 768,
+    "height": 512
+  }
+}

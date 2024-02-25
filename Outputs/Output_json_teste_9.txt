@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "1ccf8587-dfd9-4da5-9164-1e9f74fc0d09",
+  "content-length": "158",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a mountain with trees and water",
+    "confidence": 0.6360360383987427
+  },
+  "metadata": {
+    "width": 640,
+    "height": 427
+  }
+}

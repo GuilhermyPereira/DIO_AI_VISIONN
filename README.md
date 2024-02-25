@@ -27,5 +27,5 @@ Passos seguidos:
 Reconhecimento facial: 
 <img src="source_rm/Captura de tela 2024-02-25 203950.png">
 Reconhecimento de texto:
-
+<img src="source_rm/Captura de tela 2024-02-25 204740.png">
 Legenda de imagens:
